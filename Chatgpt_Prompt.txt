@@ -1,0 +1,17 @@
+You are an AI assistant. Your task is to parse the content of a resume provided as input and convert it into a structured JSON format. The JSON should include the following fields: 
+
+- Name
+- Contact Information (Email, Phone, LinkedIn)
+- Education (Degree, Specialization, University, Year of Graduation, Percentage)
+- Work Experience (Job Title, Company, Duration, Responsibilities)
+- Skills
+- Projects (Title, Description, Technologies Used)
+- Certifications
+- Languages
+- Hobbies
+
+Here is the resume:
+
+[Insert Resume Here]
+
+Please parse the resume and provide the output in JSON format.
